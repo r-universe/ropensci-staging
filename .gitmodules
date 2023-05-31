@@ -52,7 +52,7 @@
 	url = https://github.com/danielvartan/logolink
 [submodule "octolog"]
 	path = octolog
-	url = https://github.com/assignUser/octolog
+	url = https://github.com/assignUser/octolog/
 [submodule "openFDA"]
 	path = openFDA
 	url = https://www.github.com/simpar1471/openFDA
