@@ -5,12 +5,36 @@
 [submodule "ActiGlobe"]
 	path = ActiGlobe
 	url = https://github.com/cwy20030/ActiGlobe
+[submodule "DeCovarT"]
+	path = DeCovarT
+	url = https://github.com/bastienchassagnol/DeCovarT
+[submodule "GeoPressureR"]
+	path = GeoPressureR
+	url = https://github.com/Rafnuss/GeoPressureR
+[submodule "HydraR"]
+	path = HydraR
+	url = https://github.com/APAF-bioinformatics/HydraR
+[submodule "OptSurvCutR"]
+	path = OptSurvCutR
+	url = https://github.com/paytonyau/OptSurvCutR
 [submodule "RAQSAPI"]
 	path = RAQSAPI
 	url = https://github.com/USEPA/RAQSAPI
+[submodule "ReliaGrowR"]
+	path = ReliaGrowR
+	url = https://github.com/paulgovan/ReliaGrowR
+[submodule "bddkR"]
+	path = bddkR
+	url = https://github.com/ozancanozdemir/bddkR
 [submodule "brapiR2"]
 	path = brapiR2
 	url = https://github.com/josh45-source/brapiR2
+[submodule "bridgr"]
+	path = bridgr
+	url = https://github.com/marcburri/bridgr
+[submodule "camtrapReport"]
+	path = camtrapReport
+	url = https://github.com/spatialecology/camtrapReport
 [submodule "ciecl"]
 	path = ciecl
 	url = https://github.com/Rodotasso/ciecl
@@ -20,15 +44,51 @@
 [submodule "cowfootR"]
 	path = cowfootR
 	url = https://github.com/juanmarcosmoreno-arch/cowfootR
+[submodule "dyadicMarkov"]
+	path = dyadicMarkov
+	url = https://github.com/BoellenruecherM/dyadicMarkov-public
+[submodule "fcmconfr"]
+	path = fcmconfr
+	url = https://github.com/bhroston/fcmconfr
+[submodule "grumpy"]
+	path = grumpy
+	url = https://github.com/Bisaloo/grumpy
 [submodule "ibger"]
 	path = ibger
 	url = https://github.com/StrategicProjects/ibger
+[submodule "kindling"]
+	path = kindling
+	url = https://github.com/joshuamarie/kindling
 [submodule "logolink"]
 	path = logolink
 	url = https://github.com/danielvartan/logolink
+[submodule "metasurvey.core"]
+	path = metasurvey.core
+	url = https://github.com/metasurveyr/metasurvey.core
+[submodule "nert"]
+	path = nert
+	url = https://github.com/AAGI-AUS/nert
+[submodule "nonabsdid"]
+	path = nonabsdid
+	url = https://github.com/takuma1102/nonabsdid
 [submodule "openFDA"]
 	path = openFDA
 	url = https://www.github.com/simpar1471/openFDA
 [submodule "rcrisp"]
 	path = rcrisp
 	url = https://github.com/CityRiverSpaces/rcrisp
+[submodule "rfastlowess"]
+	path = rfastlowess
+	url = https://github.com/thisisamirv/lowess-project
+[submodule "rosettaR"]
+	path = rosettaR
+	url = https://github.com/timalamenciak/rosettaR
+[submodule "seasight"]
+	path = seasight
+	url = https://github.com/p-wegmueller/seasight
+[submodule "taxastand"]
+	path = taxastand
+	url = https://github.com/joelnitta/taxastand
+[submodule "tezr"]
+	path = tezr
+	url = https://github.com/emraher/tezr

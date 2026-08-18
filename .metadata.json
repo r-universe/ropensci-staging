@@ -1,10 +1,55 @@
 [
   {
+    "package": "camtrapReport",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/799"
+      }
+    }
+  },
+  {
+    "package": "DeCovarT",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/798"
+      }
+    }
+  },
+  {
+    "package": "metasurvey.core",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/796"
+      }
+    }
+  },
+  {
+    "package": "taxastand",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/794"
+      }
+    }
+  },
+  {
     "package": "brapiR2",
     "metadata": {
       "review": {
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/792"
+      }
+    }
+  },
+  {
+    "package": "bridgr",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/791"
       }
     }
   },
@@ -18,11 +63,137 @@
     }
   },
   {
+    "package": "seasight",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/786"
+      }
+    }
+  },
+  {
+    "package": "nert",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/785"
+      }
+    }
+  },
+  {
+    "package": "kindling",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/784"
+      }
+    }
+  },
+  {
+    "package": "bddkR",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/783"
+      }
+    }
+  },
+  {
+    "package": "nonabsdid",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/778"
+      }
+    }
+  },
+  {
+    "package": "OptSurvCutR",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/777"
+      }
+    }
+  },
+  {
+    "package": "grumpy",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/775"
+      }
+    }
+  },
+  {
+    "package": "tezr",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/774"
+      }
+    }
+  },
+  {
+    "package": "dyadicMarkov",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/773"
+      }
+    }
+  },
+  {
+    "package": "rfastlowess",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/769"
+      }
+    }
+  },
+  {
+    "package": "HydraR",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/766"
+      }
+    }
+  },
+  {
     "package": "ciecl",
     "metadata": {
       "review": {
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/765"
+      }
+    }
+  },
+  {
+    "package": "GeoPressureR",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/757"
+      }
+    }
+  },
+  {
+    "package": "ReliaGrowR",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/747"
+      }
+    }
+  },
+  {
+    "package": "rosettaR",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/745"
       }
     }
   },
@@ -41,6 +212,15 @@
       "review": {
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/741"
+      }
+    }
+  },
+  {
+    "package": "fcmconfr",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/740"
       }
     }
   },
