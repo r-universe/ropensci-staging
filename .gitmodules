@@ -1,5 +1,64 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ropensci-staging/ropensci-staging.r-universe.dev
 	branch = HEAD
+[submodule "ActiGlobe"]
+	path = ActiGlobe
+	url = https://github.com/cwy20030/ActiGlobe
+[submodule "CytoRSuite"]
+	path = CytoRSuite
+	url = https://github.com/DillonHammill/CytoRSuite
+[submodule "OmicsMetaData"]
+	path = OmicsMetaData
+	url = https://github.com/biodiversity-aq/OmicsMetaData
+[submodule "RAQSAPI"]
+	path = RAQSAPI
+	url = https://github.com/USEPA/RAQSAPI
+[submodule "ROriginStamp"]
+	path = ROriginStamp
+	url = https://github.com/rkrug/ROriginStamp
+[submodule "brapiR2"]
+	path = brapiR2
+	url = https://github.com/josh45-source/brapiR2
+[submodule "cancerprof"]
+	path = cancerprof
+	url = https://github.com/getwilds/cancerprof
+[submodule "chemspiderapi"]
+	path = chemspiderapi
+	url = https://github.com/RaoulWolf/chemspiderapi
+[submodule "ciecl"]
+	path = ciecl
+	url = https://github.com/Rodotasso/ciecl
+[submodule "coevolve"]
+	path = coevolve
+	url = https://github.com/ScottClaessens/coevolve
+[submodule "cowfootR"]
+	path = cowfootR
+	url = Repositorio: https://github.com/juanmarcosmoreno-arch/cowfootR
+[submodule "fwildclusterboot"]
+	path = fwildclusterboot
+	url = https://github.com/s3alfisc/fwildclusterboot/tree/master
+[submodule "healthdatacsv"]
+	path = healthdatacsv
+	url = https://github.com/iecastro/healthdatacsv
+[submodule "hudr"]
+	path = hudr
+	url = https://github.com/etam4260/rhud
+[submodule "ibger"]
+	path = ibger
+	url = https://github.com/StrategicProjects/ibger
+[submodule "logolink"]
+	path = logolink
+	url = https://github.com/danielvartan/logolink
+[submodule "octolog"]
+	path = octolog
+	url = https://github.com/assignUser/octolog
+[submodule "openFDA"]
+	path = openFDA
+	url = https://www.github.com/simpar1471/openFDA
+[submodule "rcrisp"]
+	path = rcrisp
+	url = https://github.com/CityRiverSpaces/rcrisp
+[submodule "rgeeExtra"]
+	path = rgeeExtra
+	url = https://github.com/r-earthengine/rgeeExtra

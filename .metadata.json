@@ -1,0 +1,182 @@
+[
+  {
+    "package": "brapiR2",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/792"
+      }
+    }
+  },
+  {
+    "package": "ibger",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/787"
+      }
+    }
+  },
+  {
+    "package": "ciecl",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/765"
+      }
+    }
+  },
+  {
+    "package": "RAQSAPI",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/744"
+      }
+    }
+  },
+  {
+    "package": "logolink",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/741"
+      }
+    }
+  },
+  {
+    "package": "ActiGlobe",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/732"
+      }
+    }
+  },
+  {
+    "package": "cowfootR",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/724"
+      }
+    }
+  },
+  {
+    "package": "rcrisp",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/718"
+      }
+    }
+  },
+  {
+    "package": "coevolve",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/717"
+      }
+    }
+  },
+  {
+    "package": "openFDA",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/714"
+      }
+    }
+  },
+  {
+    "package": "cancerprof",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/637"
+      }
+    }
+  },
+  {
+    "package": "rgeeExtra",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/608"
+      }
+    }
+  },
+  {
+    "package": "fwildclusterboot",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/546"
+      }
+    }
+  },
+  {
+    "package": "hudr",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/524"
+      }
+    }
+  },
+  {
+    "package": "octolog",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/502"
+      }
+    }
+  },
+  {
+    "package": "OmicsMetaData",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/471"
+      }
+    }
+  },
+  {
+    "package": "ROriginStamp",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/433"
+      }
+    }
+  },
+  {
+    "package": "healthdatacsv",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/358"
+      }
+    }
+  },
+  {
+    "package": "chemspiderapi",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/329"
+      }
+    }
+  },
+  {
+    "package": "CytoRSuite",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/281"
+      }
+    }
+  }
+]
