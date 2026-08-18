@@ -19,7 +19,7 @@
 	url = https://github.com/ScottClaessens/coevolve
 [submodule "cowfootR"]
 	path = cowfootR
-	url = Repositorio: https://github.com/juanmarcosmoreno-arch/cowfootR
+	url = https://github.com/juanmarcosmoreno-arch/cowfootR
 [submodule "ibger"]
 	path = ibger
 	url = https://github.com/StrategicProjects/ibger
