@@ -80,6 +80,7 @@
 [submodule "rfastlowess"]
 	path = rfastlowess
 	url = https://github.com/thisisamirv/lowess-project
+	subdir = bindings/r
 [submodule "rosettaR"]
 	path = rosettaR
 	url = https://github.com/timalamenciak/rosettaR
