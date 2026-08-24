@@ -1,5 +1,14 @@
 [
   {
+    "package": "kindling",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/801"
+      }
+    }
+  },
+  {
     "package": "camtrapReport",
     "metadata": {
       "review": {
@@ -77,15 +86,6 @@
       "review": {
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/785"
-      }
-    }
-  },
-  {
-    "package": "kindling",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/784"
       }
     }
   },
