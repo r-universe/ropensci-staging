@@ -36,15 +36,6 @@
     }
   },
   {
-    "package": "DeCovarT",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/798"
-      }
-    }
-  },
-  {
     "package": "metasurvey.core",
     "metadata": {
       "review": {

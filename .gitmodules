@@ -5,9 +5,6 @@
 [submodule "ActiGlobe"]
 	path = ActiGlobe
 	url = https://github.com/cwy20030/ActiGlobe
-[submodule "DeCovarT"]
-	path = DeCovarT
-	url = https://github.com/bastienchassagnol/DeCovarT
 [submodule "GeoPressureR"]
 	path = GeoPressureR
 	url = https://github.com/Rafnuss/GeoPressureR
