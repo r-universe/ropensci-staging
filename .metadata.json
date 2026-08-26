@@ -18,15 +18,6 @@
     }
   },
   {
-    "package": "expoquimR",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/800"
-      }
-    }
-  },
-  {
     "package": "camtrapReport",
     "metadata": {
       "review": {
