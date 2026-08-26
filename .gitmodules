@@ -44,6 +44,9 @@
 [submodule "dyadicMarkov"]
 	path = dyadicMarkov
 	url = https://github.com/BoellenruecherM/dyadicMarkov-public
+[submodule "expoquimR"]
+	path = expoquimR
+	url = https://github.com/Aguilar-Elena/expoquimR
 [submodule "fcmconfr"]
 	path = fcmconfr
 	url = https://github.com/bhroston/fcmconfr

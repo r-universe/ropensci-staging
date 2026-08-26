@@ -1,5 +1,14 @@
 [
   {
+    "package": "expoquimR",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/803"
+      }
+    }
+  },
+  {
     "package": "pkgaudit",
     "metadata": {
       "review": {
