@@ -90,6 +90,9 @@
 [submodule "seasight"]
 	path = seasight
 	url = https://github.com/p-wegmueller/seasight
+[submodule "tarpolyglot"]
+	path = tarpolyglot
+	url = https://github.com/Pierre9344/tarpolyglot
 [submodule "taxastand"]
 	path = taxastand
 	url = https://github.com/joelnitta/taxastand
