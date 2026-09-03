@@ -77,6 +77,9 @@
 [submodule "pkgaudit"]
 	path = pkgaudit
 	url = https://github.com/tylerjssmith/pkgaudit
+[submodule "pladdrr"]
+	path = pladdrr
+	url = https://github.com/humlab-speech/pladdrr
 [submodule "rcrisp"]
 	path = rcrisp
 	url = https://github.com/CityRiverSpaces/rcrisp
