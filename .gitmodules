@@ -80,6 +80,9 @@
 [submodule "pladdrr"]
 	path = pladdrr
 	url = https://github.com/humlab-speech/pladdrr
+[submodule "qualtdict"]
+	path = qualtdict
+	url = https://github.com/lyh970817/qualtdict
 [submodule "rcrisp"]
 	path = rcrisp
 	url = https://github.com/CityRiverSpaces/rcrisp
