@@ -71,9 +71,6 @@
 [submodule "nonabsdid"]
 	path = nonabsdid
 	url = https://github.com/takuma1102/nonabsdid
-[submodule "openFDA"]
-	path = openFDA
-	url = https://www.github.com/simpar1471/openFDA
 [submodule "pkgaudit"]
 	path = pkgaudit
 	url = https://github.com/tylerjssmith/pkgaudit
