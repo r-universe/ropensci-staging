@@ -74,6 +74,9 @@
 [submodule "nonabsdid"]
 	path = nonabsdid
 	url = https://github.com/takuma1102/nonabsdid
+[submodule "ocean3d"]
+	path = ocean3d
+	url = https://github.com/Marine-Biodiversity-Conservation-Lab/ocean3d
 [submodule "pkgaudit"]
 	path = pkgaudit
 	url = https://github.com/tylerjssmith/pkgaudit
