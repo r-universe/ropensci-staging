@@ -43,7 +43,8 @@
 	url = https://github.com/juanmarcosmoreno-arch/cowfootR
 [submodule "dyadicMarkov"]
 	path = dyadicMarkov
-	url = https://github.com/BoellenruecherM/dyadicMarkov-public/tree/ropensci-review-refinements
+	url = https://github.com/BoellenruecherM/dyadicMarkov-public
+	branch = ropensci-review-refinements
 [submodule "emodnet.wcs"]
 	path = emodnet.wcs
 	url = https://github.com/EMODnet/emodnet.wcs
