@@ -38,6 +38,9 @@
 [submodule "coevolve"]
 	path = coevolve
 	url = https://github.com/ScottClaessens/coevolve
+[submodule "corila"]
+	path = corila
+	url = https://github.com/rauschenberger/corila
 [submodule "cowfootR"]
 	path = cowfootR
 	url = https://github.com/juanmarcosmoreno-arch/cowfootR
