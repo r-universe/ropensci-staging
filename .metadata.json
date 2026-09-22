@@ -225,15 +225,6 @@
     }
   },
   {
-    "package": "ciecl",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/765"
-      }
-    }
-  },
-  {
     "package": "GeoPressureR",
     "metadata": {
       "review": {
