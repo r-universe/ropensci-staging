@@ -23,9 +23,6 @@
 [submodule "bddkR"]
 	path = bddkR
 	url = https://github.com/ozancanozdemir/bddkR
-[submodule "brapiR2"]
-	path = brapiR2
-	url = https://github.com/josh45-source/brapiR2
 [submodule "bridgr"]
 	path = bridgr
 	url = https://github.com/marcburri/bridgr
