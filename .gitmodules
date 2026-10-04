@@ -100,6 +100,9 @@
 [submodule "seasight"]
 	path = seasight
 	url = https://github.com/p-wegmueller/seasight
+[submodule "tantale"]
+	path = tantale
+	url = https://github.com/scunnac/tantale
 [submodule "tarpolyglot"]
 	path = tarpolyglot
 	url = https://github.com/Pierre9344/tarpolyglot
