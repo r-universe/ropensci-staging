@@ -11,6 +11,9 @@
 [submodule "GeoPressureR"]
 	path = GeoPressureR
 	url = https://github.com/Rafnuss/GeoPressureR
+[submodule "HazardMaps"]
+	path = HazardMaps
+	url = https://github.com/Valentina9619/HazardMaps
 [submodule "HydraR"]
 	path = HydraR
 	url = https://github.com/APAF-bioinformatics/HydraR
