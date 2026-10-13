@@ -60,9 +60,6 @@
 [submodule "grumpy"]
 	path = grumpy
 	url = https://github.com/Bisaloo/grumpy
-[submodule "ibger"]
-	path = ibger
-	url = https://github.com/StrategicProjects/ibger
 [submodule "kindling"]
 	path = kindling
 	url = https://github.com/joshuamarie/kindling
