@@ -1,5 +1,14 @@
 [
   {
+    "package": "pkgaudit",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/815"
+      }
+    }
+  },
+  {
     "package": "HazardMaps",
     "metadata": {
       "review": {
