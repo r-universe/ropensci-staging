@@ -35,9 +35,6 @@
 [submodule "camtrapReport"]
 	path = camtrapReport
 	url = https://github.com/spatialecology/camtrapReport
-[submodule "coevolve"]
-	path = coevolve
-	url = https://github.com/ScottClaessens/coevolve
 [submodule "corila"]
 	path = corila
 	url = https://github.com/rauschenberger/corila
