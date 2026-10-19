@@ -66,6 +66,9 @@
 [submodule "metasurvey.core"]
 	path = metasurvey.core
 	url = https://github.com/metasurveyr/metasurvey.core
+[submodule "nadir"]
+	path = nadir
+	url = https://github.com/ctesta01/nadir
 [submodule "nert"]
 	path = nert
 	url = https://github.com/AAGI-AUS/nert
@@ -84,9 +87,6 @@
 [submodule "qualtdict"]
 	path = qualtdict
 	url = https://github.com/lyh970817/qualtdict
-[submodule "rcrisp"]
-	path = rcrisp
-	url = https://github.com/CityRiverSpaces/rcrisp
 [submodule "rfastlowess"]
 	path = rfastlowess
 	url = https://github.com/thisisamirv/lowess-project

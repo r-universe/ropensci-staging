@@ -1,5 +1,14 @@
 [
   {
+    "package": "nadir",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/816"
+      }
+    }
+  },
+  {
     "package": "pkgaudit",
     "metadata": {
       "review": {
@@ -311,15 +320,6 @@
       "review": {
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/724"
-      }
-    }
-  },
-  {
-    "package": "rcrisp",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/718"
       }
     }
   }
