@@ -91,6 +91,9 @@
 	path = rfastlowess
 	url = https://github.com/thisisamirv/lowess-project
 	subdir = bindings/r
+[submodule "rmoriebricklayer"]
+	path = rmoriebricklayer
+	url = https://github.com/rootcoder007/rmorie-bricklayer
 [submodule "rosettaR"]
 	path = rosettaR
 	url = https://github.com/timalamenciak/rosettaR
