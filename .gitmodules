@@ -45,9 +45,6 @@
 	path = dyadicMarkov
 	url = https://github.com/BoellenruecherM/dyadicMarkov-public
 	branch = ropensci-review-refinements
-[submodule "emodnet.wcs"]
-	path = emodnet.wcs
-	url = https://github.com/EMODnet/emodnet.wcs
 [submodule "expoquimR"]
 	path = expoquimR
 	url = https://github.com/Aguilar-Elena/expoquimR
@@ -91,9 +88,6 @@
 	path = rfastlowess
 	url = https://github.com/thisisamirv/lowess-project
 	subdir = bindings/r
-[submodule "rmoriebricklayer"]
-	path = rmoriebricklayer
-	url = https://github.com/rootcoder007/rmorie-bricklayer
 [submodule "rosettaR"]
 	path = rosettaR
 	url = https://github.com/timalamenciak/rosettaR
