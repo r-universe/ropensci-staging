@@ -225,15 +225,6 @@
     }
   },
   {
-    "package": "rfastlowess",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/769"
-      }
-    }
-  },
-  {
     "package": "HydraR",
     "metadata": {
       "review": {

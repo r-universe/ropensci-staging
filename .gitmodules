@@ -87,10 +87,6 @@
 [submodule "qualtdict"]
 	path = qualtdict
 	url = https://github.com/lyh970817/qualtdict
-[submodule "rfastlowess"]
-	path = rfastlowess
-	url = https://github.com/thisisamirv/lowess-project
-	subdir = bindings/r
 [submodule "seasight"]
 	path = seasight
 	url = https://github.com/p-wegmueller/seasight
