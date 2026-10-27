@@ -87,6 +87,9 @@
 [submodule "qualtdict"]
 	path = qualtdict
 	url = https://github.com/lyh970817/qualtdict
+[submodule "reiod"]
+	path = reiod
+	url = https://github.com/nicholustintzaw/reiod
 [submodule "seasight"]
 	path = seasight
 	url = https://github.com/p-wegmueller/seasight
