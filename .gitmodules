@@ -90,6 +90,9 @@
 [submodule "reiod"]
 	path = reiod
 	url = https://github.com/nicholustintzaw/reiod
+[submodule "rpspanel"]
+	path = rpspanel
+	url = https://github.com/adebayomoses/rpspanel
 [submodule "seasight"]
 	path = seasight
 	url = https://github.com/p-wegmueller/seasight
