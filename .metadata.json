@@ -1,5 +1,14 @@
 [
   {
+    "package": "GeneExprLupusMx",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/821"
+      }
+    }
+  },
+  {
     "package": "rpspanel",
     "metadata": {
       "review": {
@@ -185,15 +194,6 @@
       "review": {
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/786"
-      }
-    }
-  },
-  {
-    "package": "nert",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/785"
       }
     }
   },

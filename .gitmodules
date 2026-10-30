@@ -8,6 +8,9 @@
 [submodule "DeCovarT"]
 	path = DeCovarT
 	url = https://github.com/bastienchassagnol/DeCovarT
+[submodule "GeneExprLupusMx"]
+	path = GeneExprLupusMx
+	url = https://github.com/EveliaCoss/GeneExprLupusMx
 [submodule "GeoPressureR"]
 	path = GeoPressureR
 	url = https://github.com/Rafnuss/GeoPressureR
@@ -69,9 +72,6 @@
 [submodule "nadir"]
 	path = nadir
 	url = https://github.com/ctesta01/nadir
-[submodule "nert"]
-	path = nert
-	url = https://github.com/AAGI-AUS/nert
 [submodule "nonabsdid"]
 	path = nonabsdid
 	url = https://github.com/takuma1102/nonabsdid
