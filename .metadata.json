@@ -18,15 +18,6 @@
     }
   },
   {
-    "package": "reiod",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/818"
-      }
-    }
-  },
-  {
     "package": "nadir",
     "metadata": {
       "review": {
@@ -194,15 +185,6 @@
       "review": {
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/786"
-      }
-    }
-  },
-  {
-    "package": "bddkR",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/783"
       }
     }
   },
