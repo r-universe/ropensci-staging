@@ -1,14 +1,5 @@
 [
   {
-    "package": "GTFShift",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/825"
-      }
-    }
-  },
-  {
     "package": "GeneExprLupusMx",
     "metadata": {
       "review": {

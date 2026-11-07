@@ -8,10 +8,6 @@
 [submodule "DeCovarT"]
 	path = DeCovarT
 	url = https://github.com/bastienchassagnol/DeCovarT
-[submodule "GTFShift"]
-	path = GTFShift
-	url = https://github.com/U-Shift/GTFShift
-	branch = ropensci-software-review
 [submodule "GeneExprLupusMx"]
 	path = GeneExprLupusMx
 	url = https://github.com/EveliaCoss/GeneExprLupusMx
