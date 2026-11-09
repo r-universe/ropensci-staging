@@ -32,9 +32,6 @@
 [submodule "bridgr"]
 	path = bridgr
 	url = https://github.com/marcburri/bridgr
-[submodule "camtrapReport"]
-	path = camtrapReport
-	url = https://github.com/spatialecology/camtrapReport
 [submodule "corila"]
 	path = corila
 	url = https://github.com/rauschenberger/corila
