@@ -1,5 +1,14 @@
 [
   {
+    "package": "msPCA",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/826"
+      }
+    }
+  },
+  {
     "package": "GeneExprLupusMx",
     "metadata": {
       "review": {

@@ -63,6 +63,9 @@
 [submodule "metasurvey.core"]
 	path = metasurvey.core
 	url = https://github.com/metasurveyr/metasurvey.core
+[submodule "msPCA"]
+	path = msPCA
+	url = https://github.com/jeanpauphilet/msPCA
 [submodule "nadir"]
 	path = nadir
 	url = https://github.com/ctesta01/nadir
