@@ -84,6 +84,9 @@
 [submodule "qualtdict"]
 	path = qualtdict
 	url = https://github.com/lyh970817/qualtdict
+[submodule "rmoriebricklayer"]
+	path = rmoriebricklayer
+	url = https://github.com/rootcoder007/rmorie-bricklayer
 [submodule "rpspanel"]
 	path = rpspanel
 	url = https://github.com/adebayomoses/rpspanel
