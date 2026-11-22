@@ -57,6 +57,9 @@
 [submodule "kindling"]
 	path = kindling
 	url = https://github.com/joshuamarie/kindling
+[submodule "lagprotest"]
+	path = lagprotest
+	url = https://github.com/diogoprov/lagprotest
 [submodule "logolink"]
 	path = logolink
 	url = https://github.com/danielvartan/logolink

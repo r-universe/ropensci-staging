@@ -1,5 +1,15 @@
 [
   {
+    "package": "lagprotest",
+    "metadata": {
+      "review": {
+        "id": 829,
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/829"
+      }
+    }
+  },
+  {
     "package": "msPCA",
     "metadata": {
       "review": {
