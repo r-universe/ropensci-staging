@@ -38,6 +38,9 @@
 [submodule "cowfootR"]
 	path = cowfootR
 	url = https://github.com/juanmarcosmoreno-arch/cowfootR
+[submodule "csquares"]
+	path = csquares
+	url = https://github.com/pepijn-devries/csquares
 [submodule "dyadicMarkov"]
 	path = dyadicMarkov
 	url = https://github.com/BoellenruecherM/dyadicMarkov-public
