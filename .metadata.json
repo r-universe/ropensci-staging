@@ -1,5 +1,15 @@
 [
   {
+    "package": "GTFShift",
+    "metadata": {
+      "review": {
+        "id": 832,
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/832"
+      }
+    }
+  },
+  {
     "package": "csquares",
     "metadata": {
       "review": {
